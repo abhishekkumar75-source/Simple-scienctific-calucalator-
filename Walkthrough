@@ -1,0 +1,20 @@
+Scientific Calculator Walkthrough
+I have successfully built a modern Scientific Calculator web application using React and Tailwind CSS.
+
+Features
+Scientific Functions: Trigonometry (sin, cos, tan), Logarithms (log, ln), Powers (^), and Roots (√).
+History: Keeps track of your last 10 calculations.
+Modern UI: Glassmorphism design with a dynamic background.
+Responsive: Works on desktop and mobile.
+
+How to Run
+Open the terminal in the scientific-calculator directory.
+Run npm run dev.
+Open the local URL (usually http://localhost:5173) in your browser.
+
+Verification Results
+Arithmetic: Tested basic operations (+, -, *, /).
+Scientific: Verified functions like 
+sin(90 deg)
+ and log(100).
+UI: Confirmed the layout is responsive and the glassmorphism effect is applied.
